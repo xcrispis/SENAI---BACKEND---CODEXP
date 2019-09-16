@@ -11,7 +11,7 @@ namespace exercicio_4 {
             real = float.Parse (Console.ReadLine ());
 
             float conversao;
-            conversao = real * dolar;
+            conversao = real / dolar;
 
             Console.WriteLine($"Você vai receber a incrivel quantia de: {conversao}");
             
