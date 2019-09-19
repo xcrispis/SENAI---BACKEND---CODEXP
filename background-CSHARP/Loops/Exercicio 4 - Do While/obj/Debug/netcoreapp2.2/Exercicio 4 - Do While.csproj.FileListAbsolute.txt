@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - Do While\bin\Debug\netcoreapp2.2\Exercicio 4 - Do While.deps.json
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - Do While\bin\Debug\netcoreapp2.2\Exercicio 4 - Do While.runtimeconfig.json
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - Do While\bin\Debug\netcoreapp2.2\Exercicio 4 - Do While.runtimeconfig.dev.json
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - Do While\bin\Debug\netcoreapp2.2\Exercicio 4 - Do While.dll
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - Do While\bin\Debug\netcoreapp2.2\Exercicio 4 - Do While.pdb
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - Do While\obj\Debug\netcoreapp2.2\Exercicio 4 - Do While.csprojAssemblyReference.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - Do While\obj\Debug\netcoreapp2.2\Exercicio 4 - Do While.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - Do While\obj\Debug\netcoreapp2.2\Exercicio 4 - Do While.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - Do While\obj\Debug\netcoreapp2.2\Exercicio 4 - Do While.AssemblyInfo.cs
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - Do While\obj\Debug\netcoreapp2.2\Exercicio 4 - Do While.dll
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - Do While\obj\Debug\netcoreapp2.2\Exercicio 4 - Do While.pdb

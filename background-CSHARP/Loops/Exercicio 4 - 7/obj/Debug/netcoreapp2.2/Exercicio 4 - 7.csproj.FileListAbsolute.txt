@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - 7\bin\Debug\netcoreapp2.2\Exercicio 4 - 7.deps.json
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - 7\bin\Debug\netcoreapp2.2\Exercicio 4 - 7.runtimeconfig.json
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - 7\bin\Debug\netcoreapp2.2\Exercicio 4 - 7.runtimeconfig.dev.json
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - 7\bin\Debug\netcoreapp2.2\Exercicio 4 - 7.dll
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - 7\bin\Debug\netcoreapp2.2\Exercicio 4 - 7.pdb
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - 7\obj\Debug\netcoreapp2.2\Exercicio 4 - 7.csprojAssemblyReference.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - 7\obj\Debug\netcoreapp2.2\Exercicio 4 - 7.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - 7\obj\Debug\netcoreapp2.2\Exercicio 4 - 7.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - 7\obj\Debug\netcoreapp2.2\Exercicio 4 - 7.AssemblyInfo.cs
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - 7\obj\Debug\netcoreapp2.2\Exercicio 4 - 7.dll
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Loops\Exercicio 4 - 7\obj\Debug\netcoreapp2.2\Exercicio 4 - 7.pdb
