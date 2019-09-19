@@ -8,13 +8,13 @@ namespace Exercicio_Condicional_5 {
             Console.WriteLine ("Qual seu valor 1?: ");
             a = double.Parse (Console.ReadLine ());
 
-            Console.WriteLine ("Qual seu valor 3?: ");
+            Console.WriteLine ("Qual seu valor 2?: ");
             b = double.Parse (Console.ReadLine ());
 
-            Console.WriteLine ("Qual seu valor 4?: ");
+            Console.WriteLine ("Qual seu valor?: ");
             c = double.Parse (Console.ReadLine ());
 
-            if (a > b) {
+            if (a > b && a > c) {
                 Console.WriteLine ($"Seu valor é {a}");
             } else if (b > c) {
                 Console.WriteLine ($"Seu valor é {b}");

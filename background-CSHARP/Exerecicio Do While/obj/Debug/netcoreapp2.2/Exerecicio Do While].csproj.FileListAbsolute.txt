@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Exerecicio Do While]\obj\Debug\netcoreapp2.2\Exerecicio Do While].csprojAssemblyReference.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Exerecicio Do While]\obj\Debug\netcoreapp2.2\Exerecicio Do While].csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Exerecicio Do While]\obj\Debug\netcoreapp2.2\Exerecicio Do While].AssemblyInfoInputs.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Exerecicio Do While]\obj\Debug\netcoreapp2.2\Exerecicio Do While].AssemblyInfo.cs
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Exerecicio Do While]\bin\Debug\netcoreapp2.2\Exerecicio Do While].deps.json
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Exerecicio Do While]\bin\Debug\netcoreapp2.2\Exerecicio Do While].runtimeconfig.json
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Exerecicio Do While]\bin\Debug\netcoreapp2.2\Exerecicio Do While].runtimeconfig.dev.json
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Exerecicio Do While]\bin\Debug\netcoreapp2.2\Exerecicio Do While].dll
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Exerecicio Do While]\bin\Debug\netcoreapp2.2\Exerecicio Do While].pdb
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Exerecicio Do While]\obj\Debug\netcoreapp2.2\Exerecicio Do While].dll
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Exerecicio Do While]\obj\Debug\netcoreapp2.2\Exerecicio Do While].pdb
