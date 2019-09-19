@@ -1,0 +1,11 @@
+C:\Users\uyguy\OneDrive\Documentos\GitHub\SENAI-BACKEND-C-\background-CSHARP\Exercicio loop - 4\bin\Debug\netcoreapp2.2\Exercicio loop - 4.deps.json
+C:\Users\uyguy\OneDrive\Documentos\GitHub\SENAI-BACKEND-C-\background-CSHARP\Exercicio loop - 4\bin\Debug\netcoreapp2.2\Exercicio loop - 4.runtimeconfig.json
+C:\Users\uyguy\OneDrive\Documentos\GitHub\SENAI-BACKEND-C-\background-CSHARP\Exercicio loop - 4\bin\Debug\netcoreapp2.2\Exercicio loop - 4.runtimeconfig.dev.json
+C:\Users\uyguy\OneDrive\Documentos\GitHub\SENAI-BACKEND-C-\background-CSHARP\Exercicio loop - 4\bin\Debug\netcoreapp2.2\Exercicio loop - 4.dll
+C:\Users\uyguy\OneDrive\Documentos\GitHub\SENAI-BACKEND-C-\background-CSHARP\Exercicio loop - 4\bin\Debug\netcoreapp2.2\Exercicio loop - 4.pdb
+C:\Users\uyguy\OneDrive\Documentos\GitHub\SENAI-BACKEND-C-\background-CSHARP\Exercicio loop - 4\obj\Debug\netcoreapp2.2\Exercicio loop - 4.csprojAssemblyReference.cache
+C:\Users\uyguy\OneDrive\Documentos\GitHub\SENAI-BACKEND-C-\background-CSHARP\Exercicio loop - 4\obj\Debug\netcoreapp2.2\Exercicio loop - 4.csproj.CoreCompileInputs.cache
+C:\Users\uyguy\OneDrive\Documentos\GitHub\SENAI-BACKEND-C-\background-CSHARP\Exercicio loop - 4\obj\Debug\netcoreapp2.2\Exercicio loop - 4.AssemblyInfoInputs.cache
+C:\Users\uyguy\OneDrive\Documentos\GitHub\SENAI-BACKEND-C-\background-CSHARP\Exercicio loop - 4\obj\Debug\netcoreapp2.2\Exercicio loop - 4.AssemblyInfo.cs
+C:\Users\uyguy\OneDrive\Documentos\GitHub\SENAI-BACKEND-C-\background-CSHARP\Exercicio loop - 4\obj\Debug\netcoreapp2.2\Exercicio loop - 4.dll
+C:\Users\uyguy\OneDrive\Documentos\GitHub\SENAI-BACKEND-C-\background-CSHARP\Exercicio loop - 4\obj\Debug\netcoreapp2.2\Exercicio loop - 4.pdb
