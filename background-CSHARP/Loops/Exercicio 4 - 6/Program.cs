@@ -6,16 +6,19 @@ namespace Exercicio_4___6
     {
         static void Main(string[] args)
         {
-           int n1=0,n2=1,n3,i,numero;    
-         Console.Write("Quantos elementos da sequência você quer? ");    
+           int numero1 = 0, numero2 = 1, numero3, i, numero;   
+
+         Console.Write("Quantos elementos da sequência você quer?");    
          numero = int.Parse(Console.ReadLine());  
-         Console.Write(n1+" "+n2+" "); 
+         
+         Console.Write(numero1+" "+numero2+" "); 
+
          for(i=2; i < numero; ++i)    
          {    
-          n3=n1+n2;    
-          Console.Write(n3+" ");    
-          n1=n2;    
-          n2=n3;    
+          numero3=numero1+numero2;    
+          Console.Write(numero3+" ");    
+          numero1=numero2;    
+          numero2=numero3;    
          }    
         }
     }
