@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Função Checa CPF\obj\Debug\netcoreapp2.2\Função Checa CPF.csprojAssemblyReference.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Função Checa CPF\obj\Debug\netcoreapp2.2\Função Checa CPF.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Função Checa CPF\obj\Debug\netcoreapp2.2\Função Checa CPF.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Função Checa CPF\obj\Debug\netcoreapp2.2\Função Checa CPF.AssemblyInfo.cs
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Função Checa CPF\bin\Debug\netcoreapp2.2\Função Checa CPF.deps.json
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Função Checa CPF\bin\Debug\netcoreapp2.2\Função Checa CPF.runtimeconfig.json
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Função Checa CPF\bin\Debug\netcoreapp2.2\Função Checa CPF.runtimeconfig.dev.json
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Função Checa CPF\bin\Debug\netcoreapp2.2\Função Checa CPF.dll
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Função Checa CPF\bin\Debug\netcoreapp2.2\Função Checa CPF.pdb
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Função Checa CPF\obj\Debug\netcoreapp2.2\Função Checa CPF.dll
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Função Checa CPF\obj\Debug\netcoreapp2.2\Função Checa CPF.pdb

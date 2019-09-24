@@ -10,8 +10,10 @@ namespace _1__7 {
             for (int i = 0; i < 10; i++) {
                 Console.WriteLine ("Escreva seu valor: ");
                 v1[i] = int.Parse (Console.ReadLine ());
-
-                if (v1[i] > v2) {
+                if (v2 == 0) {
+                    v2 = v1[0];
+                }
+                if (v1[i] >= v2) {
                     v2 = v1[i];
                     indice = i;
                 }
