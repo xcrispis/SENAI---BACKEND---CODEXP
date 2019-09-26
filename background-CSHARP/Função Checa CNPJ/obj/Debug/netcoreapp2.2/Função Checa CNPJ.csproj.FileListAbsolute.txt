@@ -1,0 +1,4 @@
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Função Checa CNPJ\obj\Debug\netcoreapp2.2\Função Checa CNPJ.csprojAssemblyReference.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Função Checa CNPJ\obj\Debug\netcoreapp2.2\Função Checa CNPJ.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Função Checa CNPJ\obj\Debug\netcoreapp2.2\Função Checa CNPJ.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Função Checa CNPJ\obj\Debug\netcoreapp2.2\Função Checa CNPJ.AssemblyInfo.cs

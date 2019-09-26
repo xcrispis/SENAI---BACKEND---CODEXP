@@ -44,26 +44,26 @@ namespace Função_Checa_CPF {
 
             int[] v2 = { 11, 10, 9, 8, 7, 6, 5, 4, 3, 2 };
             resto = 0;
-            resto = 0;
 
             cpfCalculo = cpfCalculo + calculo.ToString ();
 
             for (int i = 0; i <= 8; i++) {
-                calculo += int.Parse ((cpfCalculo[i].ToString ())) * v1[i];
+                calculo += int.Parse((cpfCalculo[i].ToString ())) * v1[i];
             }
 
             resto = calculo % 11;
             calculo = 11 - resto;
 
-            if (calculo > 9) {
+            if (calculo < 2) {
                 digito_v2 = "0";
             } else {
                 digito_v2 = calculo.ToString ();
             }
 
-            if (digito_v2 == cpfUsuario[10].ToString()) {
+            if (digito_v2 == cpfUsuario[10].ToString ()) {
                 resultado = true;
-            } 
+            }
+            
 
             return resultado;
         }
