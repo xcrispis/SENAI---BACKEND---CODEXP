@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 9 - Funções\Exercicio 1\bin\Debug\netcoreapp2.2\Exercicio 1.deps.json
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 9 - Funções\Exercicio 1\bin\Debug\netcoreapp2.2\Exercicio 1.runtimeconfig.json
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 9 - Funções\Exercicio 1\bin\Debug\netcoreapp2.2\Exercicio 1.runtimeconfig.dev.json
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 9 - Funções\Exercicio 1\bin\Debug\netcoreapp2.2\Exercicio 1.dll
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 9 - Funções\Exercicio 1\bin\Debug\netcoreapp2.2\Exercicio 1.pdb
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 9 - Funções\Exercicio 1\obj\Debug\netcoreapp2.2\Exercicio 1.csprojAssemblyReference.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 9 - Funções\Exercicio 1\obj\Debug\netcoreapp2.2\Exercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 9 - Funções\Exercicio 1\obj\Debug\netcoreapp2.2\Exercicio 1.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 9 - Funções\Exercicio 1\obj\Debug\netcoreapp2.2\Exercicio 1.AssemblyInfo.cs
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 9 - Funções\Exercicio 1\obj\Debug\netcoreapp2.2\Exercicio 1.dll
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 9 - Funções\Exercicio 1\obj\Debug\netcoreapp2.2\Exercicio 1.pdb
