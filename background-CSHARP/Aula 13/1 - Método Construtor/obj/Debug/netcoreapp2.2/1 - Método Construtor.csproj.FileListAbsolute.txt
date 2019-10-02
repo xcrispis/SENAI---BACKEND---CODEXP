@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 13\1 - Método Construtor\bin\Debug\netcoreapp2.2\1 - Método Construtor.deps.json
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 13\1 - Método Construtor\bin\Debug\netcoreapp2.2\1 - Método Construtor.runtimeconfig.json
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 13\1 - Método Construtor\bin\Debug\netcoreapp2.2\1 - Método Construtor.runtimeconfig.dev.json
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 13\1 - Método Construtor\bin\Debug\netcoreapp2.2\1 - Método Construtor.dll
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 13\1 - Método Construtor\bin\Debug\netcoreapp2.2\1 - Método Construtor.pdb
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 13\1 - Método Construtor\obj\Debug\netcoreapp2.2\1 - Método Construtor.csprojAssemblyReference.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 13\1 - Método Construtor\obj\Debug\netcoreapp2.2\1 - Método Construtor.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 13\1 - Método Construtor\obj\Debug\netcoreapp2.2\1 - Método Construtor.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 13\1 - Método Construtor\obj\Debug\netcoreapp2.2\1 - Método Construtor.AssemblyInfo.cs
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 13\1 - Método Construtor\obj\Debug\netcoreapp2.2\1 - Método Construtor.dll
+C:\Users\fic\Documents\SENAI---BACKEND---CODEXP\background-CSHARP\Aula 13\1 - Método Construtor\obj\Debug\netcoreapp2.2\1 - Método Construtor.pdb
